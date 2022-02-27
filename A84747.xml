@@ -1,0 +1,238 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Four petitions to His Excellency Sir Thomas Fairfax: viz. I. From the inhabitants of the county of Essex, presented to his Excellency at the late rendezvous at Triplo-heath. II. From the inhabitants of the counties of Norfolk and Suffolk, presented to his Excellency at St. Albans, 12 June present. III. From the inhabitants of the county of Buckingham, presented to his Excellency at S. Albans, 15 June present. IV. From the inhabitants of the county of Hertford, presented to his Excellency at S. Albans, 16 June present. Also a speech made to his Excellency at the delivery of the petition for Buckingham, by the presenter. Published at the earnest desire of the petitioners, and for the general satisfaction of the kingdom.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84747</idno>
+            <idno type="STC">Wing F1665</idno>
+            <idno type="STC">Thomason E393_7</idno>
+            <idno type="STC">ESTC R201591</idno>
+            <idno type="EEBO-CITATION">99862090</idno>
+            <idno type="PROQUEST">99862090</idno>
+            <idno type="VID">160299</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84747)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160299)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E393[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Four petitions to His Excellency Sir Thomas Fairfax: viz. I. From the inhabitants of the county of Essex, presented to his Excellency at the late rendezvous at Triplo-heath. II. From the inhabitants of the counties of Norfolk and Suffolk, presented to his Excellency at St. Albans, 12 June present. III. From the inhabitants of the county of Buckingham, presented to his Excellency at S. Albans, 15 June present. IV. From the inhabitants of the county of Hertford, presented to his Excellency at S. Albans, 16 June present. Also a speech made to his Excellency at the delivery of the petition for Buckingham, by the presenter. Published at the earnest desire of the petitioners, and for the general satisfaction of the kingdom.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Laurence Chapman,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>June 18. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Against the disbandment of the army.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160299:1"/>
+            <p>FOUR PETITIONS To His EXCELLENCY Sir Thomas Fairfax: <hi>VIZ.</hi>
+               <list>
+                  <item>I. From the Inhabitants of the County of <hi>Eſſex,</hi> preſented to his Excellency at the late Rendezvouz at <hi>Triplo</hi>-heath.</item>
+                  <item>II. From the Inhabitants of the Counties of <hi>Norfolk</hi> and <hi>Suffolk,</hi> preſented to his Excellency at St. <hi>Albans,</hi> 12 <hi>June</hi> preſent.</item>
+                  <item>III. From the Inhabitants of the County of <hi>Buckingham,</hi> preſented to his Excellency at S. <hi>Albans,</hi> 15 <hi>June</hi> preſent.</item>
+                  <item>IV. From the Inhabitants of the County of <hi>Hertford,</hi> pre<g ref="char:EOLhyphen"/>ſented to his Excellency at S. <hi>Albans,</hi> 16 <hi>June</hi> preſent.</item>
+               </list>
+            </p>
+            <p>ALSO A SPEECH made to his Excellency at the delivery of the Petition for <hi>Buckingham,</hi> by the Preſenter.</p>
+            <p>Publiſhed at the earneſt deſire of the Petitioners, and for the general ſatisfaction of the Kingdom.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Laurence Chapman,</hi> JUNE 18. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:160299:2"/>
+            <pb n="3" facs="tcp:160299:2"/>
+            <head>To the Right Honorable, Excellent, VVorthy and Pious, Sir Thomas Fairfax, General over thoſe Forces raiſed in be<g ref="char:EOLhyphen"/>half of the Countreys Rights and Liberties: <hi>The Petition of the well-affected in the County of</hi> Eſſex,</head>
+            <opener>Humbly ſheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat your Petitioners being not a little ſenſible of thoſe growing evils which are like to over-ſpread this Kingdom, unleſs the mercy of God prevent (which, after ſo much exhauſting our Eſtates, loſs of Lives, engagements of our Perſons to regain this
+<pb n="4" facs="tcp:160299:3"/>poor Nation to an enjoyment of its Rights and Liberties) and yet like to flow upon us, either by thoſe which have been our open E<g ref="char:EOLhyphen"/>nemies, or elſe a party of pretended friends; inſomuch that your poor Petitioners, and all the well-affected in the countrey have juſt cauſe to fear, That after we have, by the bleſ<g ref="char:EOLhyphen"/>ſing of the Almighty upon this Army, been reſcued from many oppreſsions which lay heavie upon us, we are now like to be vaſ<g ref="char:EOLhyphen"/>ſalaged and enſlaved in the Norman Laws, and Prerogative clutches of an ambitious party in the Nation.</p>
+            <p>And likewiſe taking into our conſidera<g ref="char:EOLhyphen"/>tion, That there is no Remora to ſtop the proceedings of violent men againſt us, but this preſent Army under your Honorable conduct, whoſe conſtant fidelity and faithful Reſolutions, together with the bleſsings from above, have hitherto abaſhed the Enemies of our Peace and Safety, and gained the favor of all thoſe who are the true friends to a free Nation.</p>
+            <p>Theſe things, Right Honorable, ſinking
+<pb n="5" facs="tcp:160299:3"/>deep into our ſpirits, we thought it meet and convenient to repreſent our thoughts unto you; and ſo much the rather, in regard the Petitions of the free-born Nation have been rejected by thoſe which we have intruſted for the receiving of them, yea Ordered to be burnt by the hands of the common Hang<g ref="char:EOLhyphen"/>man, inſomuch that we have now no whi<g ref="char:EOLhyphen"/>ther elſe to appeal but unto your Excellency, from whom, under God, we expect ſome re<g ref="char:EOLhyphen"/>dreſs of our miſeries.</p>
+            <p>
+               <hi>Our humble Deſires to your Excellency there<g ref="char:EOLhyphen"/>fore are,</hi>
+               <list>
+                  <item>Firſt, That before you disband the Army, you would be pleaſed to conſider the ſad condition which is like to befal the free<g ref="char:EOLhyphen"/>born people of England, and likewiſe our preſent vaſſalage we groan under.</item>
+                  <item>Secondly, That you would be pleaſed to mediate to the Parliament in our behalfs, and to uſe all ſuch means which you in your Honorable wiſdom ſhall think con<g ref="char:EOLhyphen"/>venient,
+<pb n="6" facs="tcp:160299:4"/>to ſettle Affairs in a fair and peace<g ref="char:EOLhyphen"/>able way; ſo that all that Renown which Providence hath hitherto crowned your Endeavors withal, may not now at laſt be blaſted with the Intentions and crafty Ma<g ref="char:EOLhyphen"/>chination of yours and the Kingdoms Enemies.</item>
+                  <item>Thirdly, That your Excellency would be pleaſed, in no caſe to admit of Disband<g ref="char:EOLhyphen"/>ing, till ſuch time as you ſee theſe and the Kingdoms juſt and legal Requeſts imbra<g ref="char:EOLhyphen"/>ced: If thus, Right Honorable, God ſhall draw forth your heart to act for us, we ſhall for ever engage our ſelves your Ser<g ref="char:EOLhyphen"/>vants in the Vindication of your juſt pro<g ref="char:EOLhyphen"/>ceedings, and ever pray for your Hono<g ref="char:EOLhyphen"/>rable ſafety.</item>
+               </list>
+            </p>
+            <argument>
+               <p>This Petition was preſented to his Excellency at the Rendezvous of the Army at
+<hi>Triplo-Heath</hi>near <hi>Royſton,</hi> with the Subſcri<g ref="char:EOLhyphen"/>tion of above a thouſand of the Inhabitants.</p>
+            </argument>
+         </div>
+         <div type="petition">
+            <pb n="7" facs="tcp:160299:4"/>
+            <head>To his Excellency Sir <hi>Thomas Fairfax</hi> Knight, Captain General of the Parliaments Forces;</head>
+            <head type="sub">The humble Petition of the peaceable and well-affected Inhabitants of the Counties of <hi>Norfolk</hi> and <hi>Suf<g ref="char:EOLhyphen"/>folk,</hi> together with the City and County of <hi>Nor<g ref="char:EOLhyphen"/>wich,</hi> earneſtly endeavoring after the prosperity of the Parliament, and the Peace of the Kingdom;</head>
+            <opener>Sheweth,</opener>
+            <p>THat whereas your Excellency hath been appointed Commander in chief over theſe free Commons of <hi>England,</hi> that have been invited by the Parlia<g ref="char:EOLhyphen"/>ment to ſtand up in defence of themſelves and fellow-Subjects in time of imminent danger, againſt all Ar<g ref="char:EOLhyphen"/>bitrary Government, Tyranny and Oppreſſion; and that the Parliament hath by diver Declarations, Re<g ref="char:EOLhyphen"/>monſtrances and Proteſtations, ingaged themſelves both to God and the Kingdom, to endeavor to the utmoſt of their power to maintain the ancient Govern<g ref="char:EOLhyphen"/>ment of this Kingdom, and to preſerve the Rights and Liberties of the Subjects, and today hold on the firſt opportunity of procuring a ſafe and well grounded Peace; notwithſtanding all which, there is now an appearance of a moſt abhorrid Deſign to ruine the native Liberties and Priviledges of the Subjects,
+<pb n="8" facs="tcp:160299:5"/>whereby diſcontents are fomented in the hearts of the people, and the Kingdom like to be divided into facti<g ref="char:EOLhyphen"/>ons, to the immenent danger of imbroiling us yet a<g ref="char:EOLhyphen"/>gain in blood: And from the policy of the Complot<g ref="char:EOLhyphen"/>ters of this Deſign, we humbly conceive, have alrea<g ref="char:EOLhyphen"/>dy proceeded thoſe ſad obſtructions of our free ad<g ref="char:EOLhyphen"/>dreſſes to the Parliament, in repreſenting our grie<g ref="char:EOLhyphen"/>vances, and making humble offers to their Wiſdom of juſt remedies, which have impoſed this neceſſity upon us, humbly to implore</p>
+            <p>Your Excellencies aſſiſtance to mediate with the Parliament, in the behalf of us, and all the free Commons of <hi>England,</hi> for the ſpeedy and Peace<g ref="char:EOLhyphen"/>able eſtabliſhment of thoſe our native Liberties, which have now coſt the Kingdom ſuch vaſt ex<g ref="char:EOLhyphen"/>pence of blood and treaſure, that all obſtructions that lay in the way to hinder the addreſſes of the free ſubjects of <hi>England</hi> to the Parliament, in re<g ref="char:EOLhyphen"/>preſenting their grievances, fears, doubts and jea<g ref="char:EOLhyphen"/>louſies, as alſo offers of Remedy might be ſo ſpee<g ref="char:EOLhyphen"/>dily removed, as that a firm Peace &amp; Union might be yet again injoyed in our diſtracted Kingdom, ac<g ref="char:EOLhyphen"/>cording to the intentions of the <hi>Parliament</hi> frequent<g ref="char:EOLhyphen"/>ly declared, ingagements of the Army, &amp; the ardent expectations of all the welaffected in the kingdom.</p>
+            <closer>And your Petitioners ſhall ever pray, &amp;c.</closer>
+            <argument>
+               <p>This Petition was preſented to his Excellency at St. <hi>Al<g ref="char:EOLhyphen"/>bans</hi> the twelfth of<hi>June</hi> preſent, with the ſubſcription of above Fourteen hundred of the Inhabitants.</p>
+            </argument>
+         </div>
+         <div type="petition">
+            <pb n="9" facs="tcp:160299:5"/>
+            <head>To his Excellency Sir <hi>Tho: Fairfax</hi> Knight, Captain General of the Forces failed for the defence of the Kingdom;</head>
+            <head type="sub">The humble Petition of the Inhabitants of the County of <hi>Buckingham.</hi>
+            </head>
+            <opener>
+               <salute>May it pleaſe your Excellency,</salute>
+            </opener>
+            <p>VVE bleſs God for you as the inſtru<g ref="char:EOLhyphen"/>ment whom he hath raiſed up, and made eminent, in putting an end to the ſad and dreadful War, wherein this Kingdom was involved not many Moneths ſince: Our eyes are ſtill upon you, and our prayers for you, that God would crown your labors with an happy period of our miſeries, end<g ref="char:EOLhyphen"/>ing in the enjoyment of our due and native liberties, which are the things we have cho<g ref="char:EOLhyphen"/>ſen our fellow ſubjects ſerving in Parliament to obtain for us.</p>
+            <p>They are the things for which we have ad<g ref="char:EOLhyphen"/>ventured our lives and eſtates freely, being the firſt County that appeared for them.</p>
+            <p>They are the things we have ſo often Peti<g ref="char:EOLhyphen"/>tioned for, and could not have ſo much as ex<g ref="char:EOLhyphen"/>pected a delay of anſwer to theſe our juſt deſires.</p>
+            <pb n="10" facs="tcp:160299:6"/>
+            <p>But to our grief we ſpeak it, we have been rejected, and are become hopeleſs of ſatisfacti<g ref="char:EOLhyphen"/>on, by ſome men who have not only prevail<g ref="char:EOLhyphen"/>ed in diſcountenancing our juſt Petitions (the proper way of the ſubjects addreſs) but have almoſt made it a fault for the ſubjects to Petition, ever for things that are due to them, both by common birthright and the law of the Kingdom, and which frequently have been confirmed unto us by ſeveral Ordinances and Declarations of Parliament. We are not ignorant that even ſome men amongſt them, whom in due time we ſhall not ſtick to name, are ſuch as by their ſubtile ſlights, have endeavoured to render your Army odious to the Parliament and Kingdom; which rather then they ſhall not obtain, they will not ſtick to inflame the Kingdom in a ſecond unneceſſary and unjuſt War: That being the only obſtacle to their wicked de<g ref="char:EOLhyphen"/>ſigns, and the only help under God, left us of having a firm Peace ſetled in this Kingdom.</p>
+            <p>Theſe things being come to this paſs, we
+<pb n="11" facs="tcp:160299:6"/>take upon us the boldneſs to beſeech your Excellency, you being a Perſon whom your Juſtice, Courage, Fidelity, and Zeal for the Common good have made eminent, and given ſo great an intereſt in the hearts and affections of all men, who have any ſence of their Common good, and juſt liberties; That you will be pleaſed to mediate on our behalf, to the Honorable Court of Parliament, for the obtaining of our ſo dear and near concernments, without the enjoyment whereof even our lives will be uncomfortable to us.</p>
+            <p>And although this our addreſs may ſeem ſtrange or hazardous unto you, yet we doubt not but the juſtice of our deſires will preſerve you. As for our own parts, we ars reſolved in the mediation thereof to aſsiſt you, to the uttermoſt of our powers, &amp;c.</p>
+            <argument>
+               <p>This Petition of the County of <hi>Buckingham,</hi> was preſented to his Excellency at St. <hi>Albans,</hi> the fifteenth of <hi>June</hi> preſent, by about One hundred of the Petitioners, with the ſubſcription of about One thouſand of the Inhabitants of that County thereunto; at the de<g ref="char:EOLhyphen"/>livery whereof, the Preſenter expreſſed himſelf to his Excellen<g ref="char:EOLhyphen"/>cy as followeth:</p>
+            </argument>
+         </div>
+         <div type="petition">
+            <pb n="12" facs="tcp:160299:7"/>
+            <opener>
+               <salute>May it pleaſe your Excellency,</salute>
+            </opener>
+            <p>APprehending a neceſsity for the ſudden fur<g ref="char:EOLhyphen"/>therance of all lawful means which may conduce to the removing our Countreys and the Kingdoms grievances, this our preſent addreſs unto your Excellency is not ſo general as otherwiſe it might have been; yet we are confident we may fully diſcharge our Countreys real and high eſteem of your unwearyed and faithful endeavors for the king<g ref="char:EOLhyphen"/>doms peace. And if your Excel: ſhall further pleaſe to improve your utmost interest in the Honorable Court of Parliament, for the crowning of your former atchivements with the future freedom of our Na<g ref="char:EOLhyphen"/>tion, we and our Posterities ſhall acknowledge you: And if any diſaffected to the Common good, ſhall en<g ref="char:EOLhyphen"/>deavor by means hereof to render your perſon or Army odious to the Parliament or Kingdom, we cannot but look upon that as an injury of common concernment, and them as enemies to the publike Peace. And none ſhall be more ready to bring ſuch to the legal and just deſerved cenſures, then we who have in this Petition which we humbly pre<g ref="char:EOLhyphen"/>ſent unto you, ſubſcribed by our ſelves, yours and the Kingdoms faithful ſervants.</p>
+         </div>
+         <div type="petition">
+            <pb n="13" facs="tcp:160299:7"/>
+            <head>To the Right Honorable his Excel<g ref="char:EOLhyphen"/>lency Sir <hi>Thomas Fairfax</hi> Kt. Captain Gene<g ref="char:EOLhyphen"/>ral of the Forces raiſed for the Preſer<g ref="char:EOLhyphen"/>vation of the Kingdom;</head>
+            <head type="sub">The humble Petition of divers Knights, Gentle<g ref="char:EOLhyphen"/>men, Freeholders, and other Inhabitants of the County of <hi>Hertford.</hi>
+            </head>
+            <opener>
+               <salute>May it pleaſe your Excellency,</salute>
+            </opener>
+            <p>VVE do with much thankfulneſs acknowledge the great care and pains that have been undergone by thoſe our faithful and well-betruſted Worthies of Parliament, who even in the ſaddeſt of times, when deſerted by many of their own Mem<g ref="char:EOLhyphen"/>bers, have not ſpared the hazard of their lives, eſtates and fortunes, for the preſervation of the juſt Liberties, Immunities and Franchiſes of the Free-born Subjects of this Kingdom, being deſperately and ſtrongly invaded by a powerful and Malignant Party; and have alſo made many ſolemn Proteſtations and De<g ref="char:EOLhyphen"/>clarations of their aims, intentions and purpoſes, whereby we have been greatly encouraged to yield all cheerful and due aſ<g ref="char:EOLhyphen"/>ſiſtance in ſo neceſſary a work; Yet now to our great grief ob<g ref="char:EOLhyphen"/>ſerving, by reaſon (as we conceive) of the machinations and contrivances of ſome deſperately affected to the weal and quiet of the Publique in general, and to the Honor of your ever Ho<g ref="char:EOLhyphen"/>nored Army in particular, many obſtructions daily do intervene and fall in, whereby both they and we, notwithſtanding the ſtill real intentions of our forenamed Worthies, there is yet clearly debarred the fruition of thoſe our often promiſed, much wiſhed
+<pb n="14" facs="tcp:160299:8"/>for, prayed for, fought for Rights and Priviledges, whereof we had well hoped long ſince to have been partakers.</p>
+            <p>Wherefore we your ſaid Petitioners do moſt humbly in<g ref="char:EOLhyphen"/>treat and beſeech your Excellency (whom God hath eminently and highly honored, and we well know to have a tender and compaſſionate care over the diſtreſſes of this miſerable afflicted Kingdom) To uſe your utmoſt endeavors, and withal expedi<g ref="char:EOLhyphen"/>tion, before the Disbanding of the Army now under your Excellencies Command, thoſe Firebrands and Incendiaries, who have endeavored to raiſe new Diviſions in the Kingdom, or by their ſlanderous tongues to fix undeſerved Reproaches on the ARMY, may be brought to condign puniſhment; and that we your Petitioners, with the reſt of your faithful Bre<g ref="char:EOLhyphen"/>thren in the Kingdom, may have a certain relief in our Grie<g ref="char:EOLhyphen"/>vances hereunto annexed.</p>
+            <p>
+               <hi>And, as in duty bound, we ſhall not fail to yield our beſt aſſiſtance with our Perſons, Purſes and Prayers,</hi> &amp;c.
+<list>
+                  <item>1. That divers Counties and Corporations in this Kingdom, <hi>viz. Devon, Cornwal, Wales,</hi> &amp;c. formerly in open Hoſtility, and for the preſent wholly diſaffected to the proceeds of Parliament, have notwithſtanding retained equally with the moſt cordial to the State, their Priviledges of Electing Members, a thing very deſtructive to the Safety of the Commonwealth, which is the chief end of Parliaments, and one main cauſe of many preſent Grievances; Wherefore we deſire, That ſuch Elections may be revoked, and the places declared uncapable of any ſuch Priviledge, during the Seſſions of this Parliament, or until ſuch time as it ſhall appear, that their former enmity and rancor againſt the Par<g ref="char:EOLhyphen"/>liament be laid aſide.</item>
+                  <item>2. That whereas the Honorable Houſes have raiſed up the ex<g ref="char:EOLhyphen"/>pectations of the well-affected, by promiſing the improvement
+<pb n="15" facs="tcp:160299:8"/>of their time and care, to apply Remedies againſt the oppreſſing Evils, as appears more fully in their Declaration of the 17. of <hi>April,</hi> 1646. yet the ſaid Commons have to their great grief been fruſtrated of their hopes, and in ſtead of being relieved, have (to their great grief) been vexed, impriſoned, and other ways moleſted.</item>
+                  <item>3. Our Petitions to the Parliament are not, as in former times, either received or anſwered, whereby no redreſs can be had to our preſſing Grievances, as in particular thoſe againſt Tythes, That for the enlargement of our fellow-Commoners, long (and as we humbly conceive) unduly detained in Priſon.</item>
+                  <item>4. The putting in of the Malignants, Neuters and perſons (who have not ſhewn any affection, or done any ſervice for the Parliament, during theſe Troubles that have layen upon the Kingdom) into places of Honor, Truſt and Profit, as Governors of Towns, Caſtles, Forts, Juſtices of Peace, Commiſſioners of Excize, Committees of Accompts, &amp;c. whereby the moſt cor<g ref="char:EOLhyphen"/>dial Friends of the Parliament are ſlighted, diſregarded, and upon very ſlender cauſes Indicted, Committed, Impriſoned.</item>
+                  <item>5. That the Body of the Kingdom conſiſting much of Copy<g ref="char:EOLhyphen"/>holders, who have for the moſt part been very cordial and faithful to the Parliament, may not now be left fineable at the will of the Lord, in regard the generality of them have been very Malignant, and much diſaffected to Parliamentary or through Reformation, and from whom they cannot but expect very ſevere dealing.</item>
+                  <item>6. That all men who have received any State moneys, as well Parliament-men as others, may be called to an Accompt for ſuch moneys; and that Committees (not as now for the moſt part Neuters and Mangnants) but of approved fidelity, may be Elected for that purpoſe.</item>
+                  <item>7. That one <hi>Cordwel,</hi> a man of a moſt notorious lewd life and converſation, and withal a moſt deſperate Malignant, did pro<g ref="char:EOLhyphen"/>cure a Warrant for the apprehending three Soldiers under the Command of Colonel <hi>Alban Cox,</hi> brought them before one
+<pb n="16" facs="tcp:160299:9"/>
+                     <hi>King</hi> of St. <hi>Albans,</hi> a Juſtice of Peace, where their ſaid Colonel did appear with them, and made it very clear and apparant <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the ſaid Juſtice, That what they did was by command from the<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Captain, and no more then what was expreſly contained without their Ordinances, which the ſaid Juſtice did acknowledge, <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> was fully ſatisfied in their Ordinances authorizing them there<g ref="char:EOLhyphen"/>unto; yet notwithſtanding the ſaid <hi>King</hi> would have committed them to <hi>Hertford</hi> Goal, had not their ſaid Colonel became bound for their appearing at the next Seſſions; and the ſaid <hi>Cord<g ref="char:EOLhyphen"/>wel</hi> did prefer a Bill of Indictment againſt them, and had it not been for two or three honeſt men that ſerved of the <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Jury, the ſaid Bill had been found to the great peril of the live of the ſaid Soldiers, there being but little favor or mercy to be had for poor Soldiers by the Juſtices of our County, &amp;c.</item>
+               </list>
+            </p>
+            <argument>
+               <p>This Petition of the County of <hi>Hertford,</hi> was preſented to <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Excellency at St. <hi>Albans,</hi> the 16 of <hi>June</hi> preſent, by above T<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> hundred Knights, Gentlemen and Freeholders of the County of <hi>Hertford,</hi> with the Subſcription of above One thouſand two hundred of the Inhabitants.</p>
+            </argument>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
